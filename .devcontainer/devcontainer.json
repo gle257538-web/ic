@@ -1,5 +1,5 @@
 {
-  "name": "IIC-OSIC-TOOLS",
-  "image": "ghcr.io/iic-jku/iic-osic-tools-devcontainer:latest",
+  "name": "Viper OSIC",
+  "image": "ghcr.io/cascode-labs/viper-osic-docker-analog:latest",
   "remoteUser": "root"
 }
